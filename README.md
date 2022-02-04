@@ -48,21 +48,26 @@
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"> </code>
- <code> <img height="50" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg"> </code>
   
-  
-  <hr>
-  <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joyantabd&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=joyantabd&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
+ 
+## My Github Statistics
 
-<hr>
+<br/>
+<p align="left">
+  <a href="https://joyanta.netlify.app/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=joyantabd&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=joyantabd&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+<br>
+
+[![Joyanta Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=joyantabd&custom_title=Joyanta%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://joyanta.netlify.app)
 
 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 <img src="https://github-profile-trophy.vercel.app/?username=joyantabd&theme=juicyfresh&no-bg=true" />
+
