@@ -71,7 +71,6 @@
 
 [![Joyanta Sarkers' Activity Graph](https://activity-graph.herokuapp.com/graph?username=joyantabd&custom_title=Joyanta%20Sarker's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://joyanta.netlify.app)
 
-
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+<p align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Git profile Trophies***</p>
 <img src="https://github-profile-trophy.vercel.app/?username=joyantabd&theme=juicyfresh&no-bg=true" />
 
